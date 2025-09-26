@@ -28,4 +28,3 @@ module.exports = async (req, res) => {
 
   res.status(200).json({ received: true, message: 'Alert forwarded to Telegram' });
 };
-"Add webhook.js handler"
