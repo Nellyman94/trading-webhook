@@ -1,0 +1,10 @@
+{
+  "name": "trading-webhook",
+  "version": "1.0.0",
+  "main": "api/webhook.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.7.0"
+  }
+}
+"Add package.json for deps"
